@@ -26,3 +26,9 @@ int main() {
 return 0;
 }
 ...
+
+
+超連結
+<http://google.com/>
+
+[google](http:google.com)
